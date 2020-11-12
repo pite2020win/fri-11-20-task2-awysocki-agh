@@ -1,0 +1,109 @@
+{
+    "first" : {
+        "1a" : {
+            "subjects" : ["math", "physics", "history"],
+            "students" : {
+                "Jan Kowalski" : {
+                    "grades" : {
+                        "math" : [5, 4, 2],
+                        "physics" : [1, 5, 5],
+                        "history" : [5, 3, 1]
+                    },
+                    "attendance" : [true, false, true, false]
+                },
+                "Name1 Surname1" : {
+                    "grades" : {
+                        "math" : [5, 1, 4, 2],
+                        "physics" : [4, 1, 2, 2],
+                        "history" : [2]
+                    },
+                    "attendance" : [true, true, true, true]
+                },
+                "Name2 Surname2" : {
+                    "grades" : {
+                        "math" : [2, 3, 4],
+                        "physics" : [2, 3],
+                        "history" : [3, 1]
+                    },
+                    "attendance" : [false, false, false, false]
+                },
+                "Name3 Surname3" : {
+                    "grades" : {
+                        "math" : [5, 5, 5],
+                        "physics" : [3, 3 ,3],
+                        "history" : [1, 1, 1]
+                    },
+                    "attendance" : [true, true, true, false]
+                }
+            }
+        },
+        "2b" : {
+            "subjects" : ["programming", "physics"],
+            "students" : {
+                "Jan Kowalski" : {
+                    "grades" : {
+                        "programming" : [2],
+                        "physics" : [1, 2, 3]
+                    },
+                    "attendance" : [true, false, true, false]
+                },
+                "Name4 Surname4" : {
+                    "grades" : {
+                        "programming" : [3, 4, 4],
+                        "physics" : [5, 5, 5]
+                    },
+                    "attendance" : [true, true, true, true]
+                },
+                "Name5 Surname5" : {
+                    "grades" : {
+                        "programming" : [1, 1 ,1],
+                        "physics" : [2, 2, 3]
+                    },
+                    "attendance" : [false, false, false, false]
+                },
+                "Name6 Surname6" : {
+                    "grades" : {
+                        "programming" : [2, 2, 5],
+                        "physics" : [4, 3, 1]
+                    },
+                    "attendance" : [true, true, true, false]
+                }
+            }
+        }
+    },
+    "second": {
+        "3c" : {
+            "subjects" : ["geography", "biology"],
+            "students" : {
+                "Jan Kowalski" : {
+                    "grades" : {
+                        "geography" : [4, 2],
+                        "biology" : [5, 4, 3, 2, 1]
+                    },
+                    "attendance" : [true, false, true, false]
+                },
+                "Name7 Surname7" : {
+                    "grades" : {
+                        "geography" : [5, 6, 2],
+                        "biology" : [5, 5, 5]
+                    },
+                    "attendance" : [true, true, true, true]
+                },
+                "Name8 Surname8" : {
+                    "grades" : {
+                        "geography" : [1, 1, 1, 2],
+                        "biology" : [1, 5, 6, 2]
+                    },
+                    "attendance" : [false, false, false, false]
+                },
+                "Name9 Surname9" : {
+                    "grades" : {
+                        "geography" : [4, 4, 4, 4],
+                        "biology" : [2, 4, 4]
+                    },
+                    "attendance" : [true, true, true, false]
+                }
+            }
+        }
+    }
+}
