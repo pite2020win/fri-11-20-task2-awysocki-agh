@@ -67,7 +67,6 @@ def get_school_average(school):
 
 def get_student_attendance_percentage(student):
     att = student['attendance']
-    print(att)
     return stat.mean(att) * 100
 
 
